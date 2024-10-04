@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+#rubrik_div{
+    display: flex;
+    flex-direction: row;
+    border: 5px solid red;
+    align-items: center;
+    justify-content: space-around;
+}
+#Rubrik1{
+    display: flex;
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 3px;
+    width: 200px;
+    justify-content: center;
+}
+
+a{
+    color: blue;
+}
